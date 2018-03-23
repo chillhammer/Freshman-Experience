@@ -1,0 +1,30 @@
+C:B|T:Montag Lounge - 10 AM
+C:C|T:I have called you all here because one of us have died.
+T:Sean was the best seagull…
+C:3|P:1|T:He was the only seagull…
+C:4|P:3|T:Who was Sean again?
+C:3|P:0
+C:6|P:1|T:And I WAS THE ONE WHO CLEANED HIS GUTS.
+C:4|P:0
+C:8|P:3|T:Im hungry, when can I leave?
+C:6|P:0
+C:0|P:1|T:I would DIE for some chocolate right now.
+C:8|P:0
+C:2|P:3|T:Hah! Nice one Sarah. Get it? Die?
+C:2|P:0
+C:7|P:3|T:Damn, why didnt I think of that
+C:0|P:0
+C:9|P:1|T:Death is only a phase of the philosophical consciousness of the mind.
+C:9|P:0
+C:0|P:1|T:What? I just want chocolate…
+C:7|P:0
+C:1|P:3|T:Who wants to play Brawlhalla?
+C:C|T:Guys
+C:0|P:0
+C:A|P:1|T:Oh, I will play! Right after my Skyrim session with Mitchell ofcourse ;)
+C:C|T: GUYS!
+C:A|P:0
+C:1|P:0
+C:B|T:Room turned silent.
+C:C|T:Sean is dead and I know who the killer is.
+T:

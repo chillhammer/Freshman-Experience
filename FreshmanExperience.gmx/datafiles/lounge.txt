@@ -1,0 +1,35 @@
+C:B|T:As you enter the lounge, you see that all signs shows of a grizzly bird-vs-bird Georgia Tech slaughterfest were nonexistent. 
+T:Damn. Kyle really knew what he was doing. The body was gone and the room smelt of heavy-duty lysol.
+C:9|P:3
+C:0|P:1
+C:B|T:You approach Sarah, Owen, and Mitchell who are either completely oblivious of the murder, or they just dont care.
+T:Probably the latter.
+C:9|T: Oi! I heard about Sean. Shame that Kyle got to him first. Coulda made use of him. Like a buffalo, eh? Or a dingo.
+C:B|T:*Sarah and Owen giggle*
+C:9||T:You know I used seven MealSwipes today? Ever since I got my lil Joey here Ive had to eat a lot more than usual, and I sure do eat a lot. But not as much as Michael, ya know? Guy probably gotta be close to zero.
+C:0|T:Aussie Aussie Aussie! 
+C:9|T:OI OI OI!
+C:9|T:I told you to stop that, you know I cant stop doing that. Its an Australian thing.
+T:Owen, when are going to be playing Skyrim again?
+C:0|P:0
+C:A|P:1|T:Pffffft I dunno, you know how it is.
+C:B|T:Seems like these three have already moved on in their conversation.
+C:9|T:Anyways, I don’t really know much about what happened. After the movie we three just slept in West Village.
+C:A|P:0
+C:0|P:1|T:Yeah, Mitchell had to eat his fifth dinner.
+C:9|T:Kangaroo’s gotta eat.
+C:9|P:0
+C:A|P:3|T:Yeah I guess he’s right.
+C:0|P:0
+C:9|P:1|T:You know I’m right. I’m always right.
+C:9|P:0
+C:0|P:1|T:He has a point.
+C:A|P:3|T:Yeah, he has a point.
+C:0|P:0
+C:A|P:0
+C:9|P:2|T:I have a point, I always have some sort of point. Whether it be a physical one or a philosophical one. I always have a point.
+C:9|P:2|T:I have some important...ehrmm...studying to do in here, if you dont need anything, PL. 
+T:*continues watching a soccer game on his phone.* 
+T:Very important studying indeed.
+C:B|T:After that weird and awkward interaction, you decide it might be best to move on.
+T:

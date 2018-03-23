@@ -1,0 +1,10 @@
+C:B|T:You knock on Jenny and Madelines room, but no response.
+C:4|P:2|T:Hi! *suprises you from behind*
+T:I just came from my 8 AM Differential Equations.
+C:C|T:Didnt you stay up last night watching Scooby-Doo?
+C:4|T:Its fiiiiiiiine, who needs sleep hahahahahahahahahhah
+T:hahahahahhahahahahahhahahahahah
+C:4|P:1
+C:3|P:3|T:Move.
+T:I just came from my jog, I am going to sleep.
+T:

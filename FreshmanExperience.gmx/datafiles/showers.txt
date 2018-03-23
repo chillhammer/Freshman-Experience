@@ -1,0 +1,13 @@
+C:B|T:You hear a shower stop running and Hank walks out.
+C:1|P:1|T:Hey PL, how are you doing this morning?
+C:C|T:Pretty awful, if you haven’t heard already, Sean was murdered early this morning.
+T:I am trying to find out what happened. Do you mind if I ask you some questions?
+C:1|P:2|T:Jee, what a horrible thing. Good thing, I was not here this morning.
+C:C|T:Where were you?
+C:1|P:3|T:*shifts nervously*
+C:1|P:2|T:Erm...I was at the CULC studying for a big test.
+C:C|T:Uhuh...well your arm appears to be a little bruised.
+T:Have you gotten into any altercations recently?
+C:1|T:*eyes glance to the ceiling* Ugh, this is just a tiny bruise.
+T:Michael shoved me out of the way in West Village the other day when Olive only had one cookie left. I hit my arm on the counter.
+T:

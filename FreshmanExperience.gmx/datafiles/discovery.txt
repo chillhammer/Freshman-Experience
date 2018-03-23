@@ -1,0 +1,8 @@
+C:B|T:9 AM - Montag Lounge
+T:As the PL of the floor, you wake up to a horrid smell. The smell of a rotting seagull.
+C:5|E:1|P:2
+C:B|T:You walk into the lounge and find a dead spliced Sean sprawled across the couch.
+C:C|T:Oh NO!
+T:The janitor is going to scream at me!
+T:I better get Kyle to clean this up and find the murderer while I am at it.
+T:

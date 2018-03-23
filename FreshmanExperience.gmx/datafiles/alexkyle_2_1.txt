@@ -1,0 +1,8 @@
+C:2|P:1
+C:6|P:3|T:Ugh...I think I can smell it from here...have you not called maintenance yet? Oh...yeah...both water fountains, the ice machine, and the ELEVATOR are still broken, so why would we expect them to clean up the lounge anyway. 
+T:Ugh...
+P:0|T:*leaves with toolbox labeled CLEANING*
+C:C|P:0|T:He just dodged the question -_-
+C:2|P:1|T:I think I heard some footsteps going by our door by then, but I couldn’t tell who. Sorry, PL. 
+C:C|P:0|T:Thanks for your help, Alex. Tell Kyle I said thanks too.
+T:

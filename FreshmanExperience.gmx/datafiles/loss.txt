@@ -1,0 +1,7 @@
+C:B|T:*BEEP* INCORRECT *BEEP*
+T:That was not the correct murderer.
+T:You wake up.
+T:You are at University of Georgia. 
+T:There are no talking birds here.
+T:The TRUE Freshman Experience was merely a dream. Try again next time.
+T:

@@ -1,0 +1,5 @@
+C:B|You walk into Andrew and Michaels room. The door was open.
+C:7|P:2|T:Hey, what is up my hot doggie. I am just working on my 3D model for my new game.
+C:C|T:Andrew, where is Michael?
+C:7|T:He should be at crew practice. His 4 AM alarm woke me up this morning.
+T:

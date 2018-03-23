@@ -1,0 +1,10 @@
+C:1|P:3
+C:C|T:Do you know if Sean had any enemies?
+C:1|P:1|T:I know that him and Kyle would go at it occasionally.
+T:They always would one up each other with band stories from their glory days back in high school.
+C:C|T:Hmm...what did you think of Sean?
+C:1|T:He was a nice guy. Took up a little too much of the couch at times. 
+T:Upset Owen and Mitchell quite a bit, but they didnt ever seem to be so angry as to be driven to murder. It didnt seem like a big deal. 
+T:Shame he passed away.
+C:C|T:Alright thanks for your help. Ill let you go get dressed. *exits bathroom*
+T:

@@ -1,0 +1,10 @@
+C:B|T:Montag Lounge - 3 AM
+C:5|P:2
+C:B|T:Everyone left to sleep except Sean who is eating marshmallows.
+C:5|T: *nom nom nom*
+T:Man, I wonder how many calories is in this thing…
+C:B|T:*Door opens*
+C:5|T:Yooo, who is that? You should go to bed.
+P:1|T:Wait, put the buzzcard down!
+P:0|T:AAAAAHHHHHHHHHHH
+C:B|T:*Fades to black*

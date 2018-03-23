@@ -1,0 +1,9 @@
+C:4|P:1
+C:3|P:3|T:*lights up*
+T:We split Chapter 14 into 20 sub-sections throughout the week and we plan to publish by the end of the month.
+C:4|T:Yesss. Zac is currently realizing his potential.
+T:His TRUE potential.
+C:3|T:You wont believe how the story ends. I wont spoil anything.
+T:Subscribe to our newsletter and you can be the first to read!
+C:C|T:I will be sure to...
+C:B|T:You run away.

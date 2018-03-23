@@ -1,0 +1,34 @@
+C:B|T:10 PM - Montag Lounge
+C:1|P:1|T:Guys, let’s watch Scooby-Doo 2: Monsters Unleashed
+T:It is a cult classic
+C:4|P:3|T:OMG I LOVE SCOOBY DOO
+C:1|P:0
+C:3|P:1|T:No, Jenny, this is the live action movie.
+C:4|T:Those are the best ones!
+C:4|P:0
+C:6|P:3|T:Is that the one where Shaggy grows boobs? Because if so, I am all for it.
+C:3|T:Ugh.
+C:3|P:0
+C:6|P:0
+C:9|P:2|T:Why is everyone a bird?
+C:9|P:0
+C:4|T:*buys Scooby Doo on Amazon Prime and plays*
+C:6|P:0
+C:3|P:0
+C:7|P:3|T:*enters* Hey what are we watching?
+C:A|P:1|T:Oh, it is a movie about dogs. Andrew you will love it ;)
+P:0
+C:0|P:1|T:Haha, nice one
+P:0
+C:A|P:0
+C:5|P:1|T:Yoooo, Andrew I would let you sit here but I need to stretch my legs
+C:7|P:0
+C:8|P:3|T:Wish I could stay and watch but I got to wake up at 4 AM for crew practice
+P:0|T:*leaves*
+C:2|P:3|T:Hey Sean, is a Zebra black with white stripes or white with black stripes?
+C:5|T:I think Socrates said a Zebra was -
+C:5|P:0
+C:2|P:0
+C:6|P:2|T:GUYS SHUT UP, I WANT TO SEE SHAGGY WITH BOOBS
+C:B|T:Kyle dominates everyone and they watch the movie in silence…
+T:*Fades to black*

@@ -1,0 +1,19 @@
+C:6|P:3
+C:2|P:1|T:WHAT?! Thats horrible! How?
+C:C|T:He was murdered.
+C:2|T:Noooo way! Do you know who did it? 
+C:C|T:Thats what Im trying to find out.
+C:2||T:Find out what? *stares* Oh, yeah, Sean. Sorry, Im just really tired. *yawns*
+C:6|P:3|T:Damn...thats a real waste of meal swipes right there. He had a real shit ton.
+C:2|T:Kyle!
+C:6|T:I was just kidding. Jeez, your acting like someone died or something. *smirks*
+C:2|P:1|T:KYLE!
+C:C|T:Enough jokes, do you two know anything? You were both in the lounge with everyone last night.
+C:6|P:3|T:Now that I think it, I do recall hearing a scream last night, but I thought it was on my Discord server.
+C:2|P:1|T:Yeah, I heard the same thing but I thought it was just coming...no I forget, sorry. Still tired. 
+T:Had a big Robojackets meeting the other day and I had to finish some last minute stuff up before Motorama. 
+C:6|P:3|T:Tired or not, you really should learn to wake up at the sound of an alarm clock...or two...or fifteen. Might as well name them a Lets-Annoy-Your-Roommate clock if you don’t bother reacting to it.
+C:2|P:1|T:Sorry...
+C:6|P:3|T:Nah Im just screwing with you dude. *pats*. Seriously though, thirty-six may be a little too much,
+C:2|P:1|T:Oh...okay. *locks his smartphone, previously looking at Buzzfeed’s Top 10 Most Annoying Ways to Mess with your Roommate*
+T:

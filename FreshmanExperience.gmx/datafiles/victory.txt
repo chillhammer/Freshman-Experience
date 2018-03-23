@@ -1,0 +1,21 @@
+C:8|P:2
+C:C|T:Michael, it was you!
+C:8|T:What!
+C:C|T:You slaughtered Sean the Seagull with your buzzcard at 3 AM.
+T:You ran out of meal swipes and you were HUNGRY.
+T:Hungry for blood!
+T:You then went back to bed and used crew practice as your alibi.
+T:But you did not account for this bloody black feather I found!
+C:8|E:1|T:ARGH!
+T:And I would do it again!
+T:Sean the marshmallow-eating loafer did not deserve all that leg space.
+T:Nor all those meal swipes!
+C:6|P:1
+C:3|P:3
+C:C|T:Kyle, Madeline, quick, GET HIM!
+C:6|P:3
+C:3|P:1
+C:8|P:0|T:AAAAHHH
+C:B|T:Michael the Loon was later arrested thanks to your brilliant deductions. Congratulations, you have experienced the TRUE Freshman Experience.
+T:Only at Georgia Tech.
+T:
